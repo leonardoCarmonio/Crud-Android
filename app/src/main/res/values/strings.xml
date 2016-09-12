@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CrudBancodeDados</string>
+    <string name="action_settings">Settings</string>
+    <string name="tituloSplashScreen">Leonardo de Jesus Carmonio \n Crud com SQLite</string>
+    <string name="txtNome">Nome</string>
+    <string name="txtEmail">Email</string>
+    <string name="rbMasculino">Masculino</string>
+    <string name="txtCpf">CPF</string>
+    <string name="rbFeminino">Feminino</string>
+    <string name="txtSexo">Sexo</string>
+    <string name="txtEndereco">Endereço</string>
+    <string name="btnIniciar">Iniciar Aplicação</string>
+</resources>
